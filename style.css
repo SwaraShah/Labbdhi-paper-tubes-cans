@@ -1,0 +1,102 @@
+* {
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+}
+
+body {
+	font-family: 'Lato', sans-serif;
+	background: lightgrey;
+}
+
+.logo-size {
+	width: 150px;
+	height: 150px;
+}
+
+
+.nav-right {
+	padding: 10px;
+	margin-top: 10px;
+}
+
+.main-img {
+	height: 350px;
+	width: 250px;
+	margin-top: 30%;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.cap-col {
+	color: darkred;
+}
+
+.margin-logo {
+	margin-top: 5%;
+}
+
+.steve-logo {
+	position: relative;
+	background-color: black;
+}
+
+.main-name {
+	font-size: 50px;
+	font-weight: bold;
+	color: #191970;
+}
+
+.form-border {
+	border: 2px solid darkgrey;
+	border-radius: 2px;
+	padding-bottom: 1%;
+}
+
+.heading-hr {
+	height: 5px;
+	background-image: linear-gradient(to right, #663300, #cc3300, #d9b38c);
+}
+
+.main-heading {
+	color: grey;
+	margin-top: -5px;
+	font-size: 15px;
+}
+
+.shape {
+	width: 50px;
+	height: 50px;
+}
+
+.footer-col {
+	color: #99334d;
+}
+
+.dropdown-color {
+	color: hotpink;
+}
+
+.boldness {
+	font-weight: 900;
+}
+
+.decoration {
+	text-decoration: underline;
+}
+
+.list-square {
+	list-style-type: square;
+}
+
+.text-right {
+	text-align: right;
+}
+
+.name-margin {
+	margin-top: 5%;
+}
